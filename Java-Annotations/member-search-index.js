@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Mobile","l":"dummyMethod()"},{"p":"<Unnamed>","c":"Mobile","l":"Mobile()","u":"%3Cinit%3E()"}];updateSearchResults();
