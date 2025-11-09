@@ -1,0 +1,3 @@
+Notes Link: https://notebook.zohopublic.in/public/notes/74tdo3074d38916474ae096fe57ad9f2ff54b
+
+Refer this article: https://medium.com/@RamLakshmanan/java-virtual-threads-easy-introduction-44d96b8270f8
